@@ -5,6 +5,7 @@ Initial Function()
   //Sample Code
 }
 
+<<<<<<< HEAD
 <<<<<<< .merge_file_l5EirC
 <<<<<<< .merge_file_tz0pyr
 Initial Security()
@@ -22,6 +23,12 @@ feature1()
 >>>>>>> .merge_file_Wn3zgG
 }
 
+=======
+feaature2()
+{
+  //Sample Code for Feature 2
+}
+>>>>>>> feature2
 
 
 }
